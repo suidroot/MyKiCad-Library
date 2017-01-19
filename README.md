@@ -1,1 +1,0 @@
-# MyKiCad-Library
